@@ -1,0 +1,7 @@
+{
+  "name": "ViralVideo Pilot",
+  "description": "An AI-powered agent app to draft, generate, and publish viral videos to social platforms.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
